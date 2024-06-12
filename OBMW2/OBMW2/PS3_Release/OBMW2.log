@@ -1,0 +1,353 @@
+﻿Build started 12/06/2024 20:48:59.
+     1>Project "C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\OBMW2.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\PS3_Release\".
+       InitializeBuildStatus:
+         Creating "PS3_Release\OBMW2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         printf.cpp
+         ps3ppusnc.exe -DNDEBUG -D__PS3__ -DLIBNAME=cellPrx_OBMW2 -DSTUBNAME=cellPrx_OBMW2_stub -o PS3_Release\printf.o -c -Xmserrors -Xdepmode=1 -MD -I. -IC:/usr/local/cell\target\ppu\include -IC:/usr/local/cell\target\common\include -I"C:/usr/local/cell\host-win32\sn\ppu\include" -O2 -Xc-=rtti "C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\printf.cpp"
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\printf.cpp(894,6): warning 178: variable "l_iLen" was declared but never referenced
+         
+         prx.cpp
+         ps3ppusnc.exe -DNDEBUG -D__PS3__ -DLIBNAME=cellPrx_OBMW2 -DSTUBNAME=cellPrx_OBMW2_stub -o PS3_Release\prx.o -c -Xmserrors -Xdepmode=1 -MD -I. -IC:/usr/local/cell\target\ppu\include -IC:/usr/local/cell\target\common\include -I"C:/usr/local/cell\host-win32\sn\ppu\include" -O2 -Xc-=rtti "C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\prx.cpp"
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Mem.h(44,2): warning 551: variable "data" is used before its value is set
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Mem.h(192,9): warning 1070: returning pointer to local variable
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Mem.h(208,8): warning 1070: returning pointer to local variable
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(1831,11): warning 175: expression has no effect
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(1893,11): warning 175: expression has no effect
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(1899,11): warning 175: expression has no effect
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(1905,12): warning 175: expression has no effect
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(1911,12): warning 175: expression has no effect
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(1917,12): warning 175: expression has no effect
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(1924,12): warning 175: expression has no effect
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(1930,12): warning 175: expression has no effect
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(1936,12): warning 175: expression has no effect
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(2604,241): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(2604,255): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(2604,269): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(2604,283): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(2604,301): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(2604,319): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(2604,337): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(2650,178): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(2650,192): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(2650,206): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(2650,220): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Game.h(2650,238): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Verification.h(16,2): warning 376: declaration requires a typedef name
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(121,33): warning 1773: implicitly converting a value of type "float" to an entity of type "int" in an assignment
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(143): warning 942: missing return statement at end of non-void function "New_Menu"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(154,49): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(157,40): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(171,41): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(172,41): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(173,41): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(177,45): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(198,45): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(203,1): warning 942: missing return statement at end of non-void function "<unnamed>::giveAccess"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(232,1): warning 942: missing return statement at end of non-void function "<unnamed>::HandlePlayers"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(240,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(242,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(244,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(246,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(248,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(250,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(252,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(254,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(256,41): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(258,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(260,41): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(262,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(264,39): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(266,39): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(277,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(281,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(285,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(289,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(293,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(297,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(301,39): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(313,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(314,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(317,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(318,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(321,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(322,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(325,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(326,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(329,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(330,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(333,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(334,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(337,39): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(338,39): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(348,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(349,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(352,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(353,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(356,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(357,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(360,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(361,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(364,41): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(365,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(368,41): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(369,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(372,39): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(373,39): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(383,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(384,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(385,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(387,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(388,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(389,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(391,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(392,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(393,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(395,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(396,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(397,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(399,41): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(400,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(401,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(403,41): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(404,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(405,41): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(407,39): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(408,45): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(409,39): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(417,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(421,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(425,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(429,47): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(433,41): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(437,41): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(441,39): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(486,44): warning 1773: implicitly converting a value of type "float" to an entity of type "std::int8_t" in an assignment
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(487,44): warning 1773: implicitly converting a value of type "float" to an entity of type "std::int8_t" in an assignment
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(488,44): warning 1773: implicitly converting a value of type "float" to an entity of type "std::int8_t" in an assignment
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(513,54): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(514,54): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(515,54): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(528,11): warning 178: variable "selectedColor" was declared but never referenced
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(529,11): warning 178: variable "currentGlowColor" was declared but never referenced
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(545,10): warning 178: variable "scrollbar_position" was declared but never referenced
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(605,45): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(609,45): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(613,70): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(636,41): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(641,41): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(646,41): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(651,42): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(656,41): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(661,41): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(666,41): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(671,40): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(676,41): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(681,42): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(691,41): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(916,42): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(954,45): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(999,41): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(1040,49): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(1207,46): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(1377,102): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(1377,107): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(1377,112): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(1377,117): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(1377,125): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\Main.h(1406,48): warning 1628: argument of type "char **" is incompatible with parameter (7 of New_Menu) of type "const char **"
+         
+       Link:
+         C:\usr\local\cell\host-win32\sn\bin\ps3ppuld32.exe -oformat=fsprx -o "C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\PS3_Release\OBMW2.sprx" -L"C:/usr/local/cell\host-win32\lib\prx\ldscripts" --start-group PS3_Release\printf.o PS3_Release\prx.o libsn.a libm.a libio_stub.a libfs_stub.a --end-group
+           undefined reference to `strlen'
+           undefined reference to `strlen'
+           undefined reference to `strlen'
+           undefined reference to `memset'
+           undefined reference to `strlen'
+           undefined reference to `memset'
+           undefined reference to `strlen'
+           undefined reference to `strlen'
+           undefined reference to `cellVideoOutGetConfiguration'
+           undefined reference to `cellVideoOutGetConfiguration'
+           undefined reference to `memset'
+           undefined reference to `strcpy'
+           undefined reference to `strcpy'
+           undefined reference to `strcpy'
+           undefined reference to `strcpy'
+           undefined reference to `strcmp'
+           undefined reference to `strcmp'
+           undefined reference to `strcmp'
+           undefined reference to `_ZN30_GLOBAL__N__7_prx_cpp_0168fd1f20SV_GetConfigString_tE' == "(anonymous namespace)::SV_GetConfigString_t"
+           undefined reference to `_ZN30_GLOBAL__N__7_prx_cpp_0168fd1f12Scr_Notify_tE' == "(anonymous namespace)::Scr_Notify_t"
+           undefined reference to `_ZN30_GLOBAL__N__7_prx_cpp_0168fd1f15Scr_AddString_tE' == "(anonymous namespace)::Scr_AddString_t"
+           undefined reference to `_ZN30_GLOBAL__N__7_prx_cpp_0168fd1f20SV_GetConfigString_tE' == "(anonymous namespace)::SV_GetConfigString_t"
+           undefined reference to `_ZN30_GLOBAL__N__7_prx_cpp_0168fd1f15Scr_AddString_tE' == "(anonymous namespace)::Scr_AddString_t"
+           undefined reference to `_ZN30_GLOBAL__N__7_prx_cpp_0168fd1f15Scr_AddString_tE' == "(anonymous namespace)::Scr_AddString_t"
+           undefined reference to `_ZN30_GLOBAL__N__7_prx_cpp_0168fd1f12Scr_Notify_tE' == "(anonymous namespace)::Scr_Notify_t"
+           undefined reference to `strcmp'
+           undefined reference to `strcmp'
+           undefined reference to `strcmp'
+           undefined reference to `strcmp'
+           undefined reference to `strcmp'
+           undefined reference to `strcmp'
+           undefined reference to `strcmp'
+           undefined reference to `strcmp'
+           undefined reference to `strcmp'
+           undefined reference to `strcmp'
+           undefined reference to `strcmp'
+         ps3ppuld 430.1.5139.0 (rel,ps3,430.1,common,src @160906 ) C:\usr\local\cell\host-win32\sn\bin\ps3ppuld32.exe
+     1>Command line : error : L0303: error generating PRX (prx-fixup failed)
+     1>Command line : error : L0064: Linking aborted
+     1>Done Building Project "C:\Users\44736\Desktop\MW2\Sprx Bases By Wizimodz !\Sprx Bases by Wizimodz !\WhiteWater Base\Obsidian - Copy\OBMW2\OBMW2\OBMW2.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.51
